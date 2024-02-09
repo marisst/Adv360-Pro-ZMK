@@ -65,7 +65,7 @@
  &trans  &trans    &trans    &trans    &trans  &trans                   &none                                                                     &none  &trans    &trans    &trans    &trans   &trans   &trans
  &trans  &kp LT  &kp LBRC  &kp LBKT  &kp LPAR  &trans                   &none        &trans  &trans                  &trans        &trans         &none  &trans  &kp RPAR  &kp RBKT  &kp RBRC   &kp GT   &trans
  &trans  &trans    &trans    &trans    &trans  &trans                                        &trans                  &trans                              &trans    &trans    &trans    &trans   &trans   &trans
- &trans  &trans    &trans    &trans    &trans                    &kp C_VOL_DN  &kp C_VOL_DN  &trans                  &trans  &kp C_VOL_UP  &kp C_VOL_UP            &trans    &trans    &trans   &trans   &trans
+ &trans  &kp C_VOL_DN &kp C_VOL_UP  &trans    &trans                    &mkp RCLK &mkp LCLK  &kp C_VOL_DN  &trans                  &trans  &mkp LCLK &mkp RCLK            &trans    &trans    &trans   &trans   &trans
             >;
         };
 
